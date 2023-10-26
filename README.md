@@ -1,4 +1,4 @@
-![logo](https://github.com/mosaraf-in/mosaraf-in/blob/main/png.jpg)
+![logo](https://github.com/mosaraf-in/mosaraf-in/blob/main/GitHub.jpg)
 <h1 align="center">Hi 👋, I'm Mosaraf Hossain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
